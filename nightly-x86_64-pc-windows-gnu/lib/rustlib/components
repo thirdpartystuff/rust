@@ -1,0 +1,8 @@
+cargo-x86_64-pc-windows-gnu
+clippy-preview-x86_64-pc-windows-gnu
+rust-docs-x86_64-pc-windows-gnu
+rust-mingw-x86_64-pc-windows-gnu
+rust-std-x86_64-pc-windows-gnu
+rustc-x86_64-pc-windows-gnu
+rustfmt-preview-x86_64-pc-windows-gnu
+rust-src
